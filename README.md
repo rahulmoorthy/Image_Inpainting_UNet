@@ -9,4 +9,4 @@
 • Trained U-Net (~100 epochs) model using MSE as loss function and Adam optimizer. The model outputs an image like the ground truth image by restoring the corrupted/missing patch.
 
 
-![alt text](C:\Users\rahul\Desktop\git_repo)
+![alt text](Image_Inpainting_UNet/images/)

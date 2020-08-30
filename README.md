@@ -10,7 +10,7 @@
 
 • The model outputs an image like the ground truth image by restoring the corrupted/missing patch.
 
-## Visualizing some of the results (ground-truth label, train input, train output) below:
+### Visualizing some of the results (ground-truth label, train input, train output) below:
 
 ![Epoch_1](/images/epoch1.JPG)
 

@@ -6,9 +6,11 @@
 
 • Designed a data-loader that yields a corrupted image and its mask as an input to the model.
 
-• Trained U-Net (~100 epochs) model using MSE as loss function and Adam optimizer. The model outputs an image like the ground truth image by restoring the corrupted/missing patch.
+• Trained U-Net (~100 epochs) model using MSE as loss function and Adam optimizer. 
 
-# Visualizing results across epochs :
+• The model outputs an image like the ground truth image by restoring the corrupted/missing patch.
+
+## Visualizing some of the results (ground-truth label, train input, train output) below:
 
 ![Epoch_1](/images/epoch1.JPG)
 

@@ -10,4 +10,12 @@
 
 # Visualizing results across epochs :
 
-![Epoch 1](/images/epoch1.JPG)
+![Epoch_1](/images/epoch1.JPG)
+
+![Epoch_10](/images/epoch10.JPG)
+
+![Epoch_20](/images/epoch20.JPG)
+
+![Epoch_50](/images/epoch50.JPG)
+
+![Epoch_99](/images/epoch99.JPG)

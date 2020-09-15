@@ -1,6 +1,6 @@
 # Image Inpainting using Deep Learning
 
-• Deep learning based image inpainting implemented using U-Net
+• Deep learning based image inpainting implemented using U-Net.
 
 • Given dataset contained a single image, hence performed random cropping of 128*128 patches. Applied rigorous data augmentation techniques to the input images.
 
